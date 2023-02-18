@@ -1,4 +1,5 @@
 # clock-face-js
-Analog + Digital clock face
+Analog and digital clock face
+
 ## Demo
 https://codepen.io/alexandr87m/pen/bGjyqNo
